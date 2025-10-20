@@ -10,7 +10,7 @@
   <br>
   💻 Desenvolvedor Backend iniciante 
   <br>
-  📫 Contato: ranielferreiraathayde@gmail.com
+  📫 Contato: <a href="mailto:ranielferreiraathayde@gmail.com">
   
 </p>
 
