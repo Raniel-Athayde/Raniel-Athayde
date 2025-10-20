@@ -4,21 +4,13 @@
   </a>
   <span>Olá! Eu sou o Raniel </span>
 </h1>
-
+  
 <p align="center">
   🎓 Atualmente cursando Engenharia de computação na Universidade Federal de Alagoas
   <br>
   💻 Desenvolvedor Backend iniciante 
   <br>
-  📫 Contato: <a href="mailto:ranielferreiraathayde@gmail.com">
-  
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,docker,git,vscode" />
-  </a>
-</p>
+  📫 Contato: <a href="mailto:ranielferreiraathayde@gmail.com" style="text-decoration: none;">ranielferreiraathayde@gmail.com</a>
 
 ---
 
