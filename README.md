@@ -15,6 +15,12 @@
 ---
 
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,c,py,docker,git,github" />
+  </a>
+  <br>
+
+<p align="center">
   <a href="https://github.com/Raniel-Athayde/github-readme-stats">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Raniel-Athayde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
